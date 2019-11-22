@@ -11,6 +11,6 @@ module.exports = {
         }
     },
     websocket: {
-        port: process.env.WEBSOCKET_PORT
+        port: process.env.PORT
     }
 };
